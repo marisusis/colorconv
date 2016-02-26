@@ -1,3 +1,7 @@
 var assert = require('chai').assert;
 
-assert.equal(require('../'),require('../'));
+describe('Color', function() {
+  describe('#toHex',function() {
+    assert(1,1,'1==1');
+  });
+});
