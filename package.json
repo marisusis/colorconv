@@ -1,0 +1,23 @@
+{
+  "name": "colorconv",
+  "version": "0.0.1",
+  "description": "A color util",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spacegeek224/colorconv"
+  },
+  "keywords": [
+    "color",
+    "util"
+  ],
+  "author": "spacegeek224",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spacegeek224/colorconv/issues"
+  },
+  "homepage": "https://github.com/spacegeek224/colorconv"
+}
