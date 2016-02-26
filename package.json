@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/spacegeek224/colorconv/issues"
   },
-  "homepage": "https://github.com/spacegeek224/colorconv"
+  "homepage": "https://github.com/spacegeek224/colorconv",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
 }
